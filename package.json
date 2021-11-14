@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/impleotv/ts-recorder-sdk-release/issues"
   },
-  "homepage": "https://github.com/impleotv/ts-recorder-sdk-release#readme"
+  "homepage": "https://github.com/impleotv/ts-recorder-sdk-release#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
 }
