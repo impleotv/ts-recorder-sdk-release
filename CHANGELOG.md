@@ -1,5 +1,9 @@
 Change Log
 ==========
+### Ver. 1.0.24 (17/11/21)
+- Move to v142 target and runtime
+- Boost v142
+- Add support for KlvPlayer's recording mode license 
 ### Ver. 1.0.22 (18/05/21)
 - Fix empty copyOutputLocation 
 
