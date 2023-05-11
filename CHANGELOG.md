@@ -1,5 +1,8 @@
 Change Log
 ==========
+
+### Ver. 1.0.25 (11/05/23)
+- Fix HEVC Intra refresh HLS recording
 ### Ver. 1.0.24 (17/11/21)
 - Move to v142 target and runtime
 - Boost v142
