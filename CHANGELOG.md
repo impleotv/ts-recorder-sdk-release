@@ -1,6 +1,7 @@
 Change Log
 ==========
-
+### Ver. 1.0.26 (11/05/23)
+- I frame manifest for HEVC
 ### Ver. 1.0.25 (11/05/23)
 - Fix HEVC Intra refresh HLS recording
 ### Ver. 1.0.24 (17/11/21)
