@@ -1,9 +1,18 @@
 Change Log
 ==========
+
+### Ver. 1.1.1 (07/12/23)
+- Add nic 0.0.0.0 for multicast
+
+### Ver. 1.1.0 (06/07/23)
+- Modify demo app
+
 ### Ver. 1.0.26 (11/05/23)
 - I frame manifest for HEVC
+
 ### Ver. 1.0.25 (11/05/23)
 - Fix HEVC Intra refresh HLS recording
+
 ### Ver. 1.0.24 (17/11/21)
 - Move to v142 target and runtime
 - Boost v142
@@ -17,6 +26,7 @@ Change Log
 
 ### Ver. 1.0.20 (12/05/21)
 - Fix mpeganalizer file lock
+
 ### Ver. 1.0.19 (11/05/21)
 - Changes on last segment completion 
 ### Ver. 1.0.18 (06/05/21)
