@@ -1,6 +1,9 @@
 Change Log
 ==========
 
+### Ver. 1.1.2 (19/05/24)
+- Fix trace with winservices
+
 ### Ver. 1.1.1 (07/12/23)
 - Add nic 0.0.0.0 for multicast
 
