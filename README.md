@@ -6,7 +6,7 @@
 </div>
 
 # TS Recorder SDK
-**TS Recorder SDK** is an "ITAR-free" library that provides STANAG/MPEGTS stream recording.  
+**TS Recorder SDK** is an ITAR-free library for recording STANAG and MPEG-TS streams.
 More [info](https://impleotv.com/products/sdks/tsrecorder-sdk/).
 
 ## System Requirements
