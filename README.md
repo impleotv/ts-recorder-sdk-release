@@ -10,7 +10,7 @@
 More [info](https://impleotv.com/products/sdks/tsrecorder-sdk/).
 
 ## System Requirements
-OS: Windows 10 64 bit.
+OS: Windows 10/11 64 bit.
 ## Installation
 
 **TS Recorder SDK** can be downloaded as a **zip** file that contains installer. Unzip the **SetupStreamRecorderSDK.zip** file and run the **SetupStreamRecorderSDK.exe**.  
