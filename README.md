@@ -19,10 +19,10 @@ OS: Windows 10 64 bit.
 
 |       | Version                  | Download link                                                                 | 
 |:------|:------------------------:|:------------------------------------------------------------------------------|
-| **TS Recorder SDK**  |  v1.1.2 | [SetupStreamRecorderSDK.zip](https://github.com/impleotv/ts-recorder-sdk-release/releases/latest/download/SetupStreamRecorderSDK.zip) | 
+| **TS Recorder SDK**  |  v1.1.3 | [SetupStreamRecorderSDK.zip](https://github.com/impleotv/ts-recorder-sdk-release/releases/latest/download/SetupStreamRecorderSDK.zip) | 
 
 
-*Released on Sun, 19 May, 09:33 GMT+3*
+*Released on 25 Sept*
 
 ## License
 
