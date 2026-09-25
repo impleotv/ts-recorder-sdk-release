@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### Ver. 1.1.3 (25/09/26)
+- Change demo app console colors
+- Recompile and sign
+
 ### Ver. 1.1.2 (19/05/24)
 - Fix trace with winservices
 
