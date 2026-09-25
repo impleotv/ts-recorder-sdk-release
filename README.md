@@ -6,7 +6,7 @@
 </div>
 
 # TS Recorder SDK
-**TS Recorder SDK** is an "ITAR-free" library that provides stream/file playback and MISB KLV extraction/decoding functionality.  
+**TS Recorder SDK** is an ITAR-free library for recording STANAG and MPEG-TS streams.
 More [info](https://impleotv.com/products/sdks/tsrecorder-sdk/).
 
 ## System Requirements
@@ -19,10 +19,10 @@ OS: Windows 10 64 bit.
 
 |       | Version                  | Download link                                                                 | 
 |:------|:------------------------:|:------------------------------------------------------------------------------|
-| **TS Recorder SDK**  |  v1.0.25 | [SetupStreamRecorderSDK.zip](https://github.com/impleotv/ts-recorder-sdk-release/releases/latest/download/SetupStreamRecorderSDK.zip) | 
+| **TS Recorder SDK**  |  v1.1.2 | [SetupStreamRecorderSDK.zip](https://github.com/impleotv/ts-recorder-sdk-release/releases/latest/download/SetupStreamRecorderSDK.zip) | 
 
 
-*Released on Thu, 11 May, 10:25 GMT+3*
+*Released on Sun, 19 May, 09:33 GMT+3*
 
 ## License
 
